@@ -25,7 +25,7 @@
 
 ### 👋 About Me
 
-I'm **Sibusiso Tshabalala**, an aspiring software developer from South Africa with a strong passion for technology and continuous learning. 
+I'm **Sibusiso Tshabalala**, an aspiring AI & software developer from South Africa with a strong passion for technology and continuous learning. 
 
 
 - 💼 Background in software development combined with hands-on coding experience
