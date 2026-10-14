@@ -28,7 +28,7 @@
 I'm **Sibusiso Tshabalala**, an aspiring software developer from South Africa with a strong passion for technology and continuous learning. 
 
 
-- 💼 Background in business development combined with hands-on coding experience
+- 💼 Background in software development combined with hands-on coding experience
 - 🚀 Building projects that solve real problems — from AI job matching to management systems and interactive web apps
 - 🌱 Always exploring new technologies and expanding my skill set
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sibusiso-tshabalala-78a546279)
