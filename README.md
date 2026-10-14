@@ -1,23 +1,23 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE4B2B,100:FF6B6B&height=200&section=header&text=Sibusiso%20Tshabalala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<!-- Futuristic Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2CBF&height=220&section=header&text=SIBUSISO%20TSHABALALA&fontSize=40&fontColor=00F5FF&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Software%20Developer%20%7C%20Building%20the%20Future&descAlignY=52&descSize=18" />
 
-<!-- Typing Animation -->
+<!-- Typing Animation - Futuristic -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Aspiring+AI+Software+Developer;Passionate+about+building+impactful+tech;Python+%7C+C%23+%7C+JavaScript+%7C+Vue;Always+learning%2C+always+creating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=650&lines=Aspiring+AI+%26+Software+Developer;Building+intelligent+systems+%26+impactful+tech;Python+%7C+C%23+%7C+JavaScript+%7C+Vue+%7C+AI%2FML;Always+innovating%2C+always+evolving" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sibusiso-tshabalala-78a546279)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sibusiso-Tshabalala)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<!-- Social Badges - Neon Style -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=0A0A0A)](https://www.linkedin.com/in/sibusiso-tshabalala-78a546279)
+[![GitHub](https://img.shields.io/badge/GitHub-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sibusiso-Tshabalala)
+[![Email](https://img.shields.io/badge/Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=0A0A0A)](mailto:your-email@example.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sibusiso-Tshabalala&color=FF6B6B&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Sibusiso-Tshabalala&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -25,8 +25,7 @@
 
 ### 👋 About Me
 
-I'm **Sibusiso Tshabalala**, an aspiring AI & software developer from South Africa with a strong passion for technology and continuous learning. 
-
+I'm **Sibusiso Tshabalala**, an aspiring **AI & software developer** from South Africa with a strong passion for technology and continuous learning.
 
 - 💼 Background in software development combined with hands-on coding experience
 - 🚀 Building projects that solve real problems — from AI job matching to management systems and interactive web apps
@@ -39,7 +38,7 @@ I'm **Sibusiso Tshabalala**, an aspiring AI & software developer from South Afri
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=python,cs,js,vue,html,css,ts,sql,git,github,vscode,windows&perline=6)
+![Skills](https://skillicons.dev/icons?i=python,cs,js,vue,html,css,ts,sql,git,github,vscode,windows&perline=6&theme=dark)
 
 </div>
 
@@ -54,12 +53,12 @@ I'm **Sibusiso Tshabalala**, an aspiring AI & software developer from South Afri
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sibusiso-Tshabalala&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibusiso-Tshabalala&layout=compact&theme=radical&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sibusiso-Tshabalala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&icon_color=7B2CBF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibusiso-Tshabalala&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sibusiso-Tshabalala&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sibusiso-Tshabalala&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=7B2CBF&currStreakLabel=00F5FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
@@ -82,18 +81,8 @@ I'm **Sibusiso Tshabalala**, an aspiring AI & software developer from South Afri
 
 ### 🐍 Contribution Snake
 
-<!-- Optional: Add snake animation after setting up the GitHub Action (see instructions below) -->
-<!-- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sibusiso-Tshabalala/Sibusiso-Tshabalala/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sibusiso-Tshabalala/Sibusiso-Tshabalala/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sibusiso-Tshabalala/Sibusiso-Tshabalala/output/github-contribution-grid-snake.svg" />
-</picture>
--->
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation placeholder" />
-  <p><i>Set up the snake animation with a GitHub Action for a live version that eats your contribution graph!</i></p>
+  <p><i>⚡ Add the Platane/snk GitHub Action for a live neon snake that eats your contribution graph!</i></p>
 </div>
 
 ---
@@ -105,6 +94,6 @@ I'm **Sibusiso Tshabalala**, an aspiring AI & software developer from South Afri
 I'm always open to interesting projects, learning opportunities, and collaborations.  
 Feel free to check out my repositories or reach out on LinkedIn!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE4B2B,100:FF6B6B&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2CBF&height=120&section=footer" />
 
 </div>
