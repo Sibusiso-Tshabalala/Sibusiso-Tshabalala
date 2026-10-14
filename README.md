@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Futuristic Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D4FF,100:7B2CBF&amp;height=220&amp;section=header&amp;text=SIBUSISO%20TSHABALALA&amp;fontSize=40&amp;fontColor=00F5FF&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI%20%26%20Software%20Developer&amp;descAlignY=52&amp;descSize=18" />
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=500&amp;size=20&amp;pause=1200&amp;color=00F5FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Aspiring+AI+%26+Software+Developer;Building+intelligent+systems+%26+impactful+tech;Python+%7C+C%23+%7C+JavaScript+%7C+Vue+%7C+AI%2FML;Always+innovating%2C+always+evolving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=500&amp;size=20&amp;pause=1200&amp;color=00F5FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Aspiring+AI+%26+Software+Developer;Building+intelligent+systems+%26+impactful+tech;Python+%7C+C%23+%7C+JavaScript+%7C+Vue;Always+innovating%2C+always+evolving" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0A0A0A)](https://www.linkedin.com/in/sibusiso-tshabalala-78a546279)
 [![GitHub](https://img.shields.io/badge/GitHub-7B2CBF?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Sibusiso-Tshabalala)
 
@@ -78,21 +75,9 @@ I'm **Sibusiso Tshabalala**, an aspiring **AI & software developer** from South 
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <p><i>⚡ Add the Platane/snk GitHub Action for a live neon snake that eats your contribution graph!</i></p>
-</div>
-
----
-
-<div align="center">
-
 ### 💡 Let's Connect & Collaborate!
 
 I'm always open to interesting projects, learning opportunities, and collaborations.  
 Feel free to check out my repositories or reach out on LinkedIn!
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D4FF,100:7B2CBF&amp;height=120&amp;section=footer" />
-
-</div>
